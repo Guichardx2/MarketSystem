@@ -11,17 +11,17 @@ Um programa simples e eficaz de mercado que ajude os stakeholders no sistema de 
   
 - `Funcionalidade 2`: Buscar um item pelo seu código(key) correspondente ao cadastrado na funcionalidade 1 e alterá-lo caso desejar atualizar seu nome, preço ou disponibilidade;
   
-- `Funcionalidade 3`: Escoler um produto pela sua key e excluí-lo;
+- `Funcionalidade 3`: Escolher um produto pela sua key e excluí-lo;
   
 - `Funcionalidade 4`: Visualizar sua lista de compras pela key;
   
 - `Funcionalidade 5`: Vender os items adicionados informando a quantisdade desejada, o sistema se responsabiliza por calcular o total;
 
 # Status: 
--Finalizado :white_check_mark:
+- Finalizado :white_check_mark:
 
 # Tecnologia utilizada: 
-- Python 100%
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 # Autores
 
